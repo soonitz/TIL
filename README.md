@@ -1,3 +1,5 @@
-# CODESTATES-SEB-BE TIL
+# CODESTATES-SEB-BE TIL / TQ
 
-📚 기록 일지 summary / review / record
+📚 Today I Learned
+
+📚 Today's Quotation
