@@ -2,4 +2,4 @@
 
 📚 Today I Learned
 
-📚 Today's Quotation
+📚 Today's Quote
