@@ -1,4 +1,4 @@
-# CODESTATES-SEB-BE TIL / TQ
+# TIL / TQ
 
 📚 Today I Learned
 
